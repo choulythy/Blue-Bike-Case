@@ -15,6 +15,16 @@ This dashboard answers the key business question:
 
 The Blue Bike pricing model is based on trip duration, so understanding peak usage patterns helps improve profitability and service delivery.
 
+## 📷 Dashboard Snapshots
+---
+### 📅 Weekend Dashboard
+
+![Blue Bikes Weekend Dashboard](./screenshots/Screenshot_2025-04-07_at_3.25.15_in_the_afternoon.png)
+
+### 🗓️ Weekday Dashboard
+
+![Blue Bikes Weekday Dashboard](./screenshots/Screenshot_2025-04-07_at_3.32.29_in_the_afternoon.png)
+
 ---
 
 ## 🔍 Key Insights
